@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mckt1985, 
-- 👀 I’m interested in all things programming. I am primarally a .Net developer, specialising in secure data transfer.
+- 👀 I’m interested in all things programming. I am primarally a .Net developer, CTO, Solutions Architect and Dataflow Engineer specialising in secure data transfer.
 - 🌱 I’m currently learning Angular, Python
 - 💞️ I’m looking to collaborate on any .Net or Angular projects. 
 - 📫 You can reach me at admin@cloudie.ie
